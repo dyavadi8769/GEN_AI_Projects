@@ -45,6 +45,7 @@ Features adjustable parameters for response customization including temperature 
 - `app.py`: OpenAI-only version
 - `main.py`: Combined OpenAI + Ollama version
 
+---
 
 ### 4.2 RAG Document QA (GROQ API and Llama3)
 
@@ -69,6 +70,7 @@ Features adjustable parameters for response customization including temperature 
 *Files*:
 - `app.py`: Main application file
 
+---
 
 ### 4.3 RAG Conversational QA (with PDF Uploads and Chat History)
 
@@ -165,7 +167,7 @@ Features adjustable parameters for response customization including temperature 
 - Cached database connections
 - Real-time reasoning display
 - Session-based chat history
-
+---
 
 ### 4.6 YouTube Video Summarization
 
@@ -301,7 +303,7 @@ This implementation:
 - **Model Host**: Ollama (local)
 - **Model**: codeguru
 
-
+---
 ## 4.10 NVIDIA NIM Integration
 
 # NVIDIA AI Projects Repository
@@ -315,7 +317,7 @@ This implementation:
 - Streams responses from Llama-3-70b model
 - Simple Python implementation
 
-
+---
 # 4.11 - CrewAI YouTube Blog Generator
 
 
