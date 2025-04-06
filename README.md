@@ -376,3 +376,14 @@ flowchart LR
     classDef agent fill:#e1f5fe,stroke:#039be5;
     class B,D agent;
 
+```
+# Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request.
+
+# Author:
+
+```bash
+Author: Sai Kiran Reddy Dyavadi
+Role  : Data Scientist
+Email : dyavadi324@gmail.com
+```
