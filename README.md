@@ -1,6 +1,5 @@
 # GEN_AI_Projects
 
-Welcome to the *GEN_AI_Projects* repository! This collection encompasses various projects that explore the capabilities and applications of Generative AI across multiple domains. Each project is organized into its respective directory, containing the necessary code, resources, and documentation to facilitate understanding and replication.
 
 ## Table of Contents
 
@@ -20,6 +19,8 @@ Welcome to the *GEN_AI_Projects* repository! This collection encompasses various
 
 
 ## Project Overview
+
+Welcome to the *GEN_AI_Projects* repository! This collection encompasses various projects that explore the capabilities and applications of Generative AI across multiple domains. Each project is organized into its respective directory, containing the necessary code, resources, and documentation to facilitate understanding and replication.
 
 ### 4.1 GenAI QA Chatbot
 
