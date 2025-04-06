@@ -17,8 +17,7 @@ Welcome to the *GEN_AI_Projects* repository! This collection encompasses various
   - [4.10 NVIDIA NIM](#410-nvidia-nim)
   - [4.11 CrewAI YouTube Blog](#411-crewai-youtube-blog)
   - [4.12 Hybrid Search RAG](#412-hybrid-search-rag)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Project Overview
 
